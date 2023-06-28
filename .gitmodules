@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "simulariatools"]
 	path = simulariatools
 	url = https://github.com/simularia/simulariatools
-	shallow = true
-	registered = true
